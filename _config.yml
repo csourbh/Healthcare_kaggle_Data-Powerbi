@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Patient Wait List Analysis Dashboard (Power BI)]
+description: [This Power BI project provides an analytical overview of **patient wait list trends** across different **case types, time bands, and specialties** in a healthcare environment.  
+It enables healthcare administrators and policymakers to **monitor patient load**, **identify delays**, and **improve operational efficiency** over time.]
